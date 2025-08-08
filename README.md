@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAGs1MC-BB0/FcKzdrc7wK6VT_HUK9a8ww/edit?utm_content=DAGs1MC-BB0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![MasterHead](![Uploading Black Minimalist Linkedin Banner.png…]()
+)]
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
