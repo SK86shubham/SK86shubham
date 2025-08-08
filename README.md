@@ -1,4 +1,4 @@
-[![MasterHead](![Uploading Black Minimalist Linkedin Banner.png…]()
+[![MasterHead](![Black Minimalist Linkedin Banner.png…]()
 )]
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
