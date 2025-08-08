@@ -1,5 +1,7 @@
-[![MasterHead](![Black Minimalist Linkedin Banner.png…]()
-)]
+<img width="2000" height="600" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/0ff3e9ee-8328-4b50-b85c-67de894c24ec" />![Welcome Banner]
+)
+
+
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
